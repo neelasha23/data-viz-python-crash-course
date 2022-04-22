@@ -17,6 +17,6 @@ while True:
 	plt.show()
 
 	keep_running = input("Make another walk? Y/N")
-	if keep_running in ('N', 'n'):
+	if keep_running in ('N','n'):
 		break
 
